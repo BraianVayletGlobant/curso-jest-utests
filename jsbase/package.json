@@ -1,0 +1,16 @@
+{
+  "name": "jsbase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "test:global": "jest global.test.js",
+    "test:index": "jest index.test.js"
+  },
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
