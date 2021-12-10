@@ -20,4 +20,8 @@ Debemos tener en cuenta que existen dos tipos de pruebas:
   Son pruebas que se realizan para testear que la funcionalidad del producto sea correcta, es decir, pasarle datos de entrada y recibir los de salida esperados. Hay varios tipos, están las pruebas unitarias, smoke test, sanity, etc.
 
 - #### Pruebas no funcionales:
+
   Con estas testeamos todo lo que no influye a la funcionalidad del producto, como por ejemplo, la accesibilidad, configuración, de rendimiento, entre otras.
+
+- #### Tests de Snapshot:
+  Son de gran utilidad cuando se quiere asegurar que la UI no cambia inesperadamente.
